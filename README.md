@@ -1,5 +1,6 @@
 # Teste de Caixa Branca (Estático) - Apontamento de falhas
--- O Projeto está setado 
+
+-- O Projeto está setado no branch Master do Reposiório -- 
 
 Erros Encontrados
 
