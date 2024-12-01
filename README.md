@@ -33,8 +33,8 @@
 
 ## **Grafo de Fluxo**
 - O grafo foi criado para demonstrar o método `verificarUsuario`, que é parte crítica do sistema.  
-(Adicione aqui a imagem do grafo, localizada na pasta do projeto, ou insira uma descrição do grafo caso necessário)
 
+![Grafo](https://github.com/KaueAlchapal/TesteCaixaBranca/blob/Etapa_3/grafo.png?raw=true) 
 
 
 
