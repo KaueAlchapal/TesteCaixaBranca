@@ -29,7 +29,9 @@
 - Adicionar logs aos blocos `catch` para capturar erros e facilitar a depuração.
 - Armazenar as credenciais em variáveis de ambiente ou em um arquivo de configuração seguro para evitar exposição.
 
-
+## **Planilha Preenchida de Testes - Caixa Branca**
+- Anexei na Branch, mas tenho o link de acesso direto;
+- Link adicional para acesso: https://docs.google.com/spreadsheets/d/1l5buE55DoGJkBbFeK1_hSWTQn3fJfGEU/edit?usp=sharing&ouid=103272596237266574483&rtpof=true&sd=true 
 
 ## **Grafo de Fluxo**
 - O grafo foi criado para demonstrar o método `verificarUsuario`, que é parte crítica do sistema.  
