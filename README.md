@@ -1,6 +1,7 @@
 # Teste de Caixa Branca (Estático) - Apontamento de falhas
 
--- O Projeto está setado na branch Master do Reposiório -- 
+-- O Projeto inicial (Sem alterações) está setado na branch Master do Reposiório -- 
+Posteriormente, com as alterações, inseri em cada branch conforme orientação de mudanças das etapas.
 
 Erros Encontrados
 
