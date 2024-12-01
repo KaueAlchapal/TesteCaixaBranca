@@ -3,7 +3,7 @@
 -- O Projeto inicial (Sem alterações) está setado na branch Master do Reposiório -- 
 Posteriormente, com as alterações, inseri em cada branch conforme orientação de mudanças das etapas.
 
-Erros Encontrados
+-- Erros Encontrados: -- 
 
 1. **Conexão ao Banco de Dados**
    - Método `conectarBD` não trata adequadamente falhas de conexão.
