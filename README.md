@@ -29,7 +29,7 @@
 - Adicionar logs aos blocos `catch` para capturar erros e facilitar a depuração.
 - Armazenar as credenciais em variáveis de ambiente ou em um arquivo de configuração seguro para evitar exposição.
 
--
+
 
 ## **Grafo de Fluxo**
 - O grafo foi criado para demonstrar o método `verificarUsuario`, que é parte crítica do sistema.  
@@ -40,7 +40,7 @@
 
 ## **Complexidade Ciclomática**
 
-A **complexidade ciclomática** do código foi calculada com a fórmula:  
+Na **complexidade ciclomática** do código, foi realizado o cálculo com a fórmula:  
 **M = E - N + 2P**
 
 Onde:
@@ -51,7 +51,6 @@ Onde:
 **Resultado:**  
 A complexidade é **3**, indicando que existem **3 caminhos básicos independentes** no código.
 
----
 
 ## **Caminhos Básicos Identificados**
 ### **Caminho 1**
@@ -63,8 +62,10 @@ A complexidade é **3**, indicando que existem **3 caminhos básicos independent
 - Descrição: Resultado inexistente no banco de dados.
 
 ### **Caminho 3**
-- Sequência: `1 → 2 → 3 → 4 → 8`  
+- Sequência: `1 → 2 → 3 → 4 → 8`
 - Descrição: Ocorre uma falha ou exceção durante a execução da consulta.
+
+  Nota: Os cálculos e caminhos descritos ajudam a garantir que todas as condições lógicas e possibilidades do método foram cobertas e analisadas adequadamente.
 
 
 
